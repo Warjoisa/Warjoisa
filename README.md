@@ -12,7 +12,7 @@ Worst python coder
 
 
 
-[![Warjoisa](https://github-readme-stats.vercel.app/api?username=Warjoisa)](https://github.com/anuraghazra/github-readme-stats)
+[![Warjoisa](https://github-readme-stats.vercel.app/api?username=Warjoisa&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
