@@ -1,6 +1,6 @@
 <h1 align="left">Hi there!</h1>
 
-i am [Alpha Aether](https://aether-web.netlify.app/) and we do some cool shit
+i am [Alpha Aether](https://warjoisa.github.io/AetherWeb/) and we do some cool shit
 
 Worst python coder
 
